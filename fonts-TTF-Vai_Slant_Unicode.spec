@@ -1,6 +1,6 @@
 Summary:	Free TrueType font for the Vai script
 Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pisma vai
-Name:		fonts-Vai_Slant_Unicode
+Name:		fonts-TTF-Vai_Slant_Unicode
 Version:	1.0
 Release:	1
 License:	SIL OFL, distributable
